@@ -9,7 +9,6 @@
 body{
   background-image: linear-gradient(to top , #666769, #505354, #3b3f3f, #2a2c2a, #1a1a17);
   }
-
   
   img{
     border-radius: 10px;
@@ -367,7 +366,6 @@ p{
    50% { opacity: 0.0; }
   100% { opacity: 1.0; }
 }
-
 
 
 /* RESPONSIVE */
